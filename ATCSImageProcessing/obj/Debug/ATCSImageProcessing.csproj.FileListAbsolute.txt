@@ -1,0 +1,10 @@
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\bin\Debug\ATCSImageProcessing.exe.config
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\bin\Debug\ATCSImageProcessing.exe
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\bin\Debug\ATCSImageProcessing.pdb
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\bin\Debug\MySql.Data.dll
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.csprojResolveAssemblyReference.cache
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.Form1.resources
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.Properties.Resources.resources
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.csproj.GenerateResource.Cache
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.exe
+D:\DEV\ATCSImageProcessing\ATCSImageProcessing\obj\Debug\ATCSImageProcessing.pdb
